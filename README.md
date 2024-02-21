@@ -1,4 +1,4 @@
-(./img/bankist-screenshot.png)
+![website-screenshot](/Bankist-website/img/bankist-screenshot.jpg)
 
 # Bankist
 
